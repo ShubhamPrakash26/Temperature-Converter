@@ -11,8 +11,6 @@ This is a simple web application that allows users to convert temperatures betwe
 ## Technologies Used
 
 - HTML, CSS, and JavaScript for front-end development.
-- [Insert Framework/Library] for [Insert specific features or functionality].
-- [Insert Backend Technology, if applicable].
 
 ## Getting Started
 
@@ -21,7 +19,7 @@ These instructions will help you set up and run the project on your local machin
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/temperature-conversion.git
+   git clone https://github.com/ShubhamPrakash26/temperature-conversion.git
    ```
 
 2. Open the `index.html` file in your web browser to use the app.
@@ -35,8 +33,8 @@ These instructions will help you set up and run the project on your local machin
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](/assets/output.png)
+![Screenshot 2](/assets/preview.gif)
 
 ## Contributing
 
@@ -59,11 +57,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, feel free to contact the project maintainers:
 
-- Your Name - [your@email.com](mailto:your@email.com)
-- [Optional: Additional Maintainer Names and Contact Information]
+- Shubham Prakash - [prakashshubham26@gmail.com](mailto:prakashshubham26@gmail.com)
 
 ---
 
 Thank you for using the Temperature Conversion App! We hope it serves you well.
-```
 
