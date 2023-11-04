@@ -51,7 +51,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [List any external libraries, tutorials, or resources you used and want to credit.]
+- The project has been made with inspirations from the website codementor.io
 
 ## Contact
 
