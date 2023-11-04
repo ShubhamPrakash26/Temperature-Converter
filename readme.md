@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, feel free to contact the project maintainers:
 
-- Shubham Prakash - [prakashshubham26@gmail.com](mailto:prakashshubham26@gmail.com)
+- Shubham Prakash - [Shubham Prakash](mailto:prakashshubham26@gmail.com)
 
 ---
 
