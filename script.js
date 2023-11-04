@@ -5,7 +5,7 @@ $('form').submit(function (event) {
     convertInputDegree()
 });
 
-// Realtime Update
+// Realtime Update using jQuerry
 $('#inputDegree').on('input', () => convertInputDegree());
 $('#selectInputDegreeType').change(() => convertInputDegree());
 $('#selectConversionType').change(() => convertInputDegree());
