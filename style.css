@@ -33,12 +33,9 @@ select {
   border-radius: 0px 3px 3px 0px;
 }
 
-
 .convertBtn {
   min-width: 10px;
   background-color: var(--primary-color);
-
-
 }
 
 .convertBtn:hover {
@@ -57,7 +54,6 @@ select {
   word-wrap: normal;
   text-align: center;
   font-size-adjust: 0.58;
-
 }
 
 #convertedDegree {
@@ -76,12 +72,8 @@ select {
   color: white;
 }
 
-
-
-
 /* Mobile view  */
 @media only screen and (max-width: 600px) {
-
   body {
     display: relative;
     overflow: hidden;
@@ -120,5 +112,4 @@ select {
   #convertedUnit {
     padding-top: 50px;
   }
-
 }
