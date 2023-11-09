@@ -34,7 +34,6 @@ These instructions will help you set up and run the project on your local machin
 ## Screenshots
 
 ![Screenshot 1](/assets/output.png)
-![Screenshot 2](/assets/preview.gif)
 
 ## Contributing
 
